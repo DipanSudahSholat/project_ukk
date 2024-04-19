@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780807622086",
+    "project_id": "libraryaccount",
+    "storage_bucket": "libraryaccount.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780807622086:android:6e5b2a014ad0ebcb1336c7",
+        "android_client_info": {
+          "package_name": "com.example.library_dhifan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVeUlEnjjAM-hblqYI0pfxgpEtP6rvLd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
